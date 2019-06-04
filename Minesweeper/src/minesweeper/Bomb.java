@@ -9,6 +9,6 @@ package minesweeper;
  *
  * @author macleak
  */
-public class Bomb {
+public class Bomb extends Cell{
     
 }

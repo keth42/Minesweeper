@@ -9,6 +9,8 @@ package minesweeper;
  *
  * @author macleak
  */
-public class Blank {
+public class Blank extends Cell {
+    
+    
     
 }
