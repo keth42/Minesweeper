@@ -1,16 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package minesweeper;
 
-/**
- *
- * @author macleak
- */
+import DLibX.DConsole;
+
 public class Blank extends Cell {
     
-    
+    public Blank(int x, int y, DConsole dc) {
+        super(x, y, dc);
+    }
     
 }
