@@ -9,4 +9,10 @@ public class Number extends Cell {
         super(x, y, dc);        
     }
     
+    public void draw() {
+        if(!covered) {
+            
+        }
+    }
+    
 }
